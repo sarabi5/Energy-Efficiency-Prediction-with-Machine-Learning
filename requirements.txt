@@ -1,0 +1,9 @@
+#to activate your environment source venv/bin/activate
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+shap
+mlflow
